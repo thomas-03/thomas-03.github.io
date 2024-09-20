@@ -46,7 +46,7 @@ rss_icon: true
 # Layout
 # -----------------------------------------------------------------------------
 #previously was both true
-navbar_fixed: true
+#navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
