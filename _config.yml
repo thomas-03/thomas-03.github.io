@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Tegan Thomas, Prospective Graduate Student # the website title (if blank, full name will be used instead)
+title: Tegan A. Thomas # the website title (if blank, full name will be used instead)
 first_name: Tegan
 middle_name: A.
 last_name: Thomas
@@ -69,7 +69,7 @@ serve_schema_org: false # Include Schema.org in the HTML head
 
 github_username: thomas-03 # your GitHub user name
 #gitlab_username: # your GitLab user name
-#x_username: # your X handle
+x_username: @thomas_03_327
 #mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: tegan-thomas-90240b224/ # your LinkedIn user name
 #telegram_username: # your Telegram user name
