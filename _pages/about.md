@@ -9,6 +9,7 @@ profile:
   image: 898A0289.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>555 Office Number</p>
     <p>1 Brookings Drive</p>
     <p>St. Louis, MO 63130</p>
 
