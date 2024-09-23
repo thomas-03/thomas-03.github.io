@@ -6,10 +6,9 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: 898A0289.JPG
+  image: 898A0281.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 Office Number</p>
     <p>1 Brookings Drive</p>
     <p>St. Louis, MO 63130</p>
 
