@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://physics.wustl.edu/'>Department of Physics, Washingon University in St. Louis</a>.
 
 profile:
   align: right
@@ -14,7 +14,7 @@ profile:
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Hello! I'm Tegan Thomas, a current 4th-year undergraduate at Washington University in St. Louis. I am double majoring in Computer Science and Astrophysics and am also part of the Beyond Boundaries program. Additionally, I am currently applying to graduate and post-bacc programs in both Physics and Astronomy so if you are accepting graduate students or are interested in working together even for a shorter time period please feel free to reach out! 
