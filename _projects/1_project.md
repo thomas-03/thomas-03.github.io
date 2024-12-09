@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Modified Gravity in SMBH Images
+title: Exploring Modified Gravity
 description: As part of my work with Dr. Charles F. Gammie, I am exploring modified theories of gravity within simulated images of super-massive black holes (SMBHs).
 img: assets/img/Picture1.png
 importance: 1
@@ -13,7 +13,7 @@ My colleague Shreya Majumdar first implemented the alternative metrics within th
 
 From there, I use the GRMHD results within a General Relativistic Radiative Transfer (GRRT) code, IPOLE, in order to create images. To do this, I first implemented our alternative metrics within IPOLE and then created images both of the entire observed ring, and of the n=1 photon ring. Currently, I am still producing these images and once I have them all, I will be able to perform extensive analysis to note any unique observational characteristics of each theory of gravity.
 
-
+{% comment %} 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
@@ -81,3 +81,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+{% endcomment %}
