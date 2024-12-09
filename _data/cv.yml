@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Tegan Alvina Thomas
     - name: Date of Birth
-      value: 14th March 1879
+      value: 17th November 2003
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
@@ -21,7 +21,7 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
+    - title: Bachelors of Science
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
       description:
