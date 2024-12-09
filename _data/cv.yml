@@ -11,22 +11,15 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Bachelors of Science
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+      institution: Washington University in St. Louis
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
+        - During undergraduate I double-majored in Computer Science and Astrophysics. 
+        - title: Beyond Boundaries Program.
+          contents: 
+            - The Beyond Boundaries program is an incredibly competitive interdisciplinary program where I have the opportunity to explore lots of other fields such as business and politics while pursuing me degree. 
+            - It focuses on examining the intersection of different fields and creating an interdisciplinary mindset that I can apply to future learning or jobs.
 
 - title: Experience
   type: time_table
@@ -64,9 +57,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/AFD-Illinois/ipole/tree/feature/alt-gravity-theory">al-folio</a>
+      year: 2023-now
+      description: An implementation of the Einstein dilaton Gauss Bonnet and dynamical Chern Simons theories of gravity within the general relativistic radiative transfer code IPOLE.
 
 - title: Honors and Awards
   type: time_table
@@ -82,14 +75,16 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Black hole physics.
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Plasma behavior around black holes and other compact objects.
+        - Jet formation and evolution.
+        - AGN feedback over cosmological timescales.
+    - title: Neutron Stars.
       items:
-        - Description 1.
-        - Description 2.
+        - Magnetars as a source of Fast Radio Bursts (FRBs).
+        - Neutron star mergers & gravitational wave analysis. 
+        - Acceleration processes close to neutron stars.
 
 - title: Other Interests
   type: list
