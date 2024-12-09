@@ -1,12 +1,5 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - thomas-03
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - /AFD-Illinois/ipole/tree/feature/alt-gravity-theory
