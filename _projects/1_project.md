@@ -1,16 +1,18 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Modified Gravity in SMBH Images
+description: As part of my work with Dr. Charles F. Gammie, I am exploring modified theories of gravity within simulated images of super-massive black holes (SMBHs).
+img: assets/img/Picture1.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
+This project is focused on exploring modified gravity theories within simulated images of SMBHs. Specifically, we look at the Einstein dilaton Gauss Bonnet (EdGB) and dynamical Chern Simons (dCS) theories, and their metrics are given to us by Dr. Nico Yunes' gravity theory group. We compare these theories to General Relativity (GR) using simulated images at 230GHz which mirror the Event Horizon Telescope observations.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+My colleague Shreya Majumdar first implemented the alternative metrics within the General Relativistic Magnetohydrodynamics (GRMHD) code KHARMA. This allowed us to simulate the fluid around a SMBH within each of these theories of gravity, and both Shreya and my other colleague Vedant Dhruv then ran these simulations for a long period of time in order to ensure our initial conditions didn't influence our findings. 
+
+From there, I use the GRMHD results within a General Relativistic Radiative Transfer (GRRT) code, IPOLE, in order to create images. To do this, I first implemented our alternative metrics within IPOLE and then created images both of the entire observed ring, and of the n=1 photon ring. Currently, I am still producing these images and once I have them all, I will be able to perform extensive analysis to note any unique observational characteristics of each theory of gravity.
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
