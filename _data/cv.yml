@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Tegan Alvina Thomas
-    - name: Date of Birth
-      value: 17th November 2003
     - name: Languages
       value: English
 
@@ -24,53 +22,49 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: National Society of Black Physicists/Smithsonian Astrophysical Observatory EHT Scholar
+      institution: Smithsonian Astrophysical Observatory, Cambridge, Massachusetts
+      year: 2024-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Through the EHT Scholar program, I began working with Dr. Angelo Ricarte investigating the observational characteristics of near-maximal spin SMBHs.
+        - As part of the program I gave both a mid-program and final presentation on my research, and will also present my research at the 245th AAS Winter meeting.
+    - title: Physics Research Experiences for Undergraduates Student
+      institution: University of Illinois Urbana-Champaign, Urbana, Illinois
+      year: 2023-present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - As part of the Physics REU program I worked with Dr. Charles F. Gammie exploring modified gravity theories in simulated images of SMBHs.
+        - With the program I gave both a mid-program and final presentation. Additionally, I gave a talk at the Illinois Summer Research Program Alliance Symposium and a poster presentation at the 243rd AAS Winter meeting.
+    - title: Undergraduate Research Assistant
+      institution: Washington Unviersity in St. Louis, St. Louis, Missouri
+      year: 2022-present
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - At WashU, I worked with Dr. Yajie Yuan creating a scheme for making interactive 3D visualizations of the magnetic field lines around neutron stars.
+        - I presented my work at the 2023 and 2024 Conferences for Undergraduate Women in Physics and at the 2023 WashU Physics Research Symposium.
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/AFD-Illinois/ipole/tree/feature/alt-gravity-theory">al-folio</a>
-      year: 2023-now
+    - title: <a href="https://github.com/AFD-Illinois/ipole/tree/feature/alt-gravity-theory">IPOLE</a>
+      year: 2023-present
       description: An implementation of the Einstein dilaton Gauss Bonnet and dynamical Chern Simons theories of gravity within the general relativistic radiative transfer code IPOLE.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Fall 2021 Deans List
+    - year: 2022
       items:
-        - Max Planck Medal
+        - Spring 2022 Deans List
+        - Fall 2022 Deans List
+    - year: 2023
+      items:
+        - Spring 2023 Deans List
+        - Fall 2023 Deans List
+    - year: 2024
+      items:
+        - Spring 2024 Deans List
 
 - title: Academic Interests
   type: nested_list
@@ -85,8 +79,3 @@
         - Magnetars as a source of Fast Radio Bursts (FRBs).
         - Neutron star mergers & gravitational wave analysis. 
         - Acceleration processes close to neutron stars.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
