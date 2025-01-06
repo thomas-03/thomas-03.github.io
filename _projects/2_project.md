@@ -10,26 +10,30 @@ giscus_comments: true
 Supermassive black holes (SMBHs) often lie at the center of galaxies, and as they grow they modulate the evolution of their host galaxies via radiation and jet-driven feedback. Both of these processes evolve strongly with black hole spin, making it a key area of interest.
 
 The upper limit on spin due to torque from outgoing radiation is the near-maximal value of 0.998 (as shown in Thorne 1974). However, even stronger limits have been proposed due to magnetic fields, including a commonly adopted maximum of 0.9375 (Gammie et al. 2004). With EHT we can now test these limits! Alongside my co-authors Angelo Ricarte, Ben Prather, and Hyerin Cho, I ran simulations at both spin values in search of observable differences in polarized morphology and feedback efficiency.
+
+We ultimately found that both spin limits fit well with current EHT observations of Sgr A*. However, we found that with an edge-on view of the black hole, there's a noticeable distortion of the photon ring. In the future, as the EHT expands on land, with the ngEHT project, and in space with the BHEX mission, we hope that the near-maximal spin characteristics may become observationally accessible via the photon ring.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/image_stats.png" title="Polarimetric Stats" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/photon_ring.png" title="Polarimetric Stats" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    On the left is an image with 4 plots comparing the polarimetric quantities observed for Sgr A* to those calculated for our 0.998 and 0.9375 spin simulations. On the right is an image comparing the photon ring image for the 0.9375 (blue) and 0.998 (red) case.
 </div>
 
+Jet power efficiency indicates how much energy is being extracted via the jet relative to the accretion energy. These jets are incredibly powerful, and due to extraction of spin energy they may even reach over 100% efficiency. The efficiency increases noticeably for the near-maximal spin model. We find that our jet efficiency is higher in the near-maximal case than expected from previous studies. 
 
+With the jet extracting more energy than expected, this has significant implications for the spin evolution of the black hole, as the black hole is effectively spun down. We use the spin-up parameter to characterize how fast the spin should be changing due to this energy extraction. We found that the spin-up parameter was more extreme than expect in the near-maximal case, indicating that the near-maximal spin black holes should be spun down over shorter times than previously predicted.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/power_efficiency.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/spinup_parameter.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
