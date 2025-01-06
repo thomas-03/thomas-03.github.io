@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Characteristics of Near-Maximal Spin
+title: Observational Signatures of Near-Maximal Spin
 description: With Dr. Angelo Ricarte as part of the NSBP/SAO EHT Scholars Program I am working on a project identifying observational characteristics of near-maximal spin within EHT observations.
 img: assets/img/3.jpg
 importance: 2
@@ -16,12 +16,18 @@ We ultimately found that both spin limits fit well with current EHT observations
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/image_stats.png" title="Polarimetric Stats" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    The 4 plots above compare the polarimetric quantities observed for Sgr A* to those calculated for our 0.998 and 0.9375 spin simulations.
+</div>
+
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/photon_ring.png" title="Polarimetric Stats" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    On the left is an image with 4 plots comparing the polarimetric quantities observed for Sgr A* to those calculated for our 0.998 and 0.9375 spin simulations. On the right is an image comparing the photon ring image for the 0.9375 (blue) and 0.998 (red) case.
+    The image above shows the photon ring for the 0.9375 (blue) and 0.998 (red) case. We note a distortion of the photon ring in the near-maximal case.
 </div>
 
 Jet power efficiency indicates how much energy is being extracted via the jet relative to the accretion energy. These jets are incredibly powerful, and due to extraction of spin energy they may even reach over 100% efficiency. The efficiency increases noticeably for the near-maximal spin model. We find that our jet efficiency is higher in the near-maximal case than expected from previous studies. 
@@ -37,13 +43,10 @@ With the jet extracting more energy than expected, this has significant implicat
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    On the left we have a plot of jet power efficiency as a function of spin, and on the right we have a plot of the spin-up parameter as a function of spin.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
+<!--
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -75,3 +78,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+-->
