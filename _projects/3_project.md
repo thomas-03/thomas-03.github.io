@@ -9,4 +9,3 @@ category: work
 Working with Dr. Yajie Yuan, I created a procedure to make interactive 3D visualizations of the magnetic field lines around neutron stars. We hope to use this to help improve understanding of ejecta processes within the magnetosphere of neutron stars, in addition to being a general tool for physics education. An example of these visualizations can be seen below.
 
 <embed src="t40_Neutron_Star.html" type="text/html" height="700px" width="700"/> 
-<iframe src="t40_Neutron_Star.html" seamless></iframe>
