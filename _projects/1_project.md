@@ -3,7 +3,7 @@ layout: page
 title: Exploring Modified Gravity
 description: As part of my work with Dr. Charles F. Gammie, I am exploring modified theories of gravity within simulated images of super-massive black holes (SMBHs).
 img: assets/img/Picture1.png
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---
