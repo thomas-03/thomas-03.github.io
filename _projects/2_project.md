@@ -12,15 +12,6 @@ Supermassive black holes (SMBHs) often lie at the center of galaxies, and as the
 The upper limit on spin due to torque from outgoing radiation is the near-maximal value of 0.998 (as shown in Thorne 1974). However, even stronger limits have been proposed due to magnetic fields, including a commonly adopted maximum of 0.9375 (Gammie et al. 2004). With EHT we can now test these limits! Alongside my co-authors Angelo Ricarte, Ben Prather, and Hyerin Cho, I ran simulations at both spin values in search of observable differences in polarized morphology and feedback efficiency.
 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
