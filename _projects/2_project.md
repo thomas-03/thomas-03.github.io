@@ -1,16 +1,16 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Observational Characteristics of Near-Maximal Spin
+description: With Dr. Angelo Ricarte as part of the NSBP/SAO EHT Scholars Program I am working on a project identifying observational characteristics of near-maximal spin within EHT observations.
 img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
+Supermassive black holes (SMBHs) often lie at the center of galaxies, and as they grow they modulate the evolution of their host galaxies via radiation and jet-driven feedback. Both of these processes evolve strongly with black hole spin, making it a key area of interest.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The upper limit on spin due to torque from outgoing radiation is the near-maximal value of 0.998 (as shown in Thorne 1974). However, even stronger limits have been proposed due to magnetic fields, including a commonly adopted maximum of 0.9375 (Gammie et al. 2004). With EHT we can now test these limits! Alongside my co-authors Angelo Ricarte, Ben Prather, and Hyerin Cho, I ran simulations at both spin values in search of observable differences in polarized morphology and feedback efficiency.
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
