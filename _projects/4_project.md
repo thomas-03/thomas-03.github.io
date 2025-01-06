@@ -6,7 +6,7 @@ img:
 importance: 3
 category: school
 ---
-Below you can find our lab report for this project!
+Below you can reac our lab report for this project! Unfortunately, the repository we used is no longer available.
 
 <object class="pdf" data="./Intro_to_Comp_Physics_Project_1.pdf" width="500px" height="600px">
   <p>Your web browser doesn't have a PDF plugin.
