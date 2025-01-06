@@ -10,6 +10,6 @@ Working with Dr. Yajie Yuan, I created a procedure to make interactive 3D visual
 
 <embed src="https://thomas-03.github.io/NeutronStarVisualization/" type="text/html" height="700px" width="700"/> 
 
-<iframe src="https://github.com/thomas-03/thomas-03.github.io/blob/master/_projects/t40_Neutron_Star.html" width="700" height="700"> 
+<iframe src="https://thomas-03.github.io/NeutronStarVisualization/" width="700" height="700"> 
     Your browser does not support iframes. 
 </iframe> 
