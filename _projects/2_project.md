@@ -3,7 +3,7 @@ layout: page
 title: Observational Signatures of Near-Maximal Spin
 description: With Dr. Angelo Ricarte as part of the NSBP/SAO EHT Scholars Program I am working on a project identifying observational characteristics of near-maximal spin within EHT observations.
 img: assets/img/3.jpg
-importance: 2
+importance: 1
 category: work
 giscus_comments: true
 ---
