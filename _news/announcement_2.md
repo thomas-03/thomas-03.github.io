@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will present a poster presentation on January 16th at the 245th American Astronomical Society meeting!
+I presented a poster on January 16th at the 245th American Astronomical Society meeting! My poster can be found <a href='https://aas242-aas.ipostersessions.com/?s=53-04-57-CC-95-B3-44-F6-6E-81-E5-1A-8E-1C-B8-63'>here. I was also a Chambliss poster presentation finalist. 
