@@ -67,6 +67,12 @@
     - year: 2024
       items:
         - Spring 2024 Deans List
+    - year: 2025
+      items: 
+        - Fall 2025 Deans List
+    - year: 2025
+      items:
+        - American Astronomical Society Chambliss Poster Award Finalist
 
 - title: Academic Interests
   type: nested_list
