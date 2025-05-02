@@ -5,7 +5,7 @@
       class="table-responsive"
       {% if include.limit and site.announcements.scrollable and news_size > 3 %}
         style="max-height: 60vw"
-        style="color-scheme: getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color")"
+        style="scrollbar-color: getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color")"
       {% endif %}
     >
       <table class="table table-sm table-borderless">
