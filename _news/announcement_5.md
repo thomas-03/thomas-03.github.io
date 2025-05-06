@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My undergraduate senior <a href='https://openscholarship.wustl.edu/undergrad_etd/70/'>thesis  is now publicly available!
+My <a href='https://openscholarship.wustl.edu/undergrad_etd/70/'><undergraduate senior thesis>  is now publicly available!
