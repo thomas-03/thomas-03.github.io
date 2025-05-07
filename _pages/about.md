@@ -6,7 +6,7 @@ subtitle: <a href='https://physics.wustl.edu/'>Department of Physics, Washingon 
 
 profile:
   align: right
-  image: 898A0281.JPG
+  image: professionalPic2025.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1 Brookings Drive</p>
