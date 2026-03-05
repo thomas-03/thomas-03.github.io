@@ -4,19 +4,13 @@
     - name: Full Name
       value: Tegan Alvina Thomas
     - name: Current Position
-      value: 1st Year Graduate Student
+      value: 4th year Undergraduate Student
     - name: Languages
       value: English
 
 - title: Education
   type: time_table
   contents:
-  - title: Astronomy PhD
-      institution: University of Virginia
-      year: 2025-2030
-      description:
-        - I am currently pursuing my PhD at UVA under the mentorship of Shane Davis. 
-
     - title: Bachelors of Science
       institution: Washington University in St. Louis
       year: 2021-2025
@@ -38,14 +32,13 @@
         - As part of the program I gave both a mid-program and final presentation on my research, and will also present my research at the 245th AAS Winter meeting.
     - title: Physics Research Experiences for Undergraduates Student
       institution: University of Illinois Urbana-Champaign, Urbana, Illinois
-      year: 2023-2025
+      year: 2023-present
       description:
         - As part of the Physics REU program I worked with Dr. Charles F. Gammie exploring modified gravity theories in simulated images of SMBHs.
         - With the program I gave both a mid-program and final presentation. Additionally, I gave a talk at the Illinois Summer Research Program Alliance Symposium and a poster presentation at the 243rd AAS Winter meeting.
-        - Following the program I continued research with the group as an external collaborator.
     - title: Undergraduate Research Assistant
       institution: Washington Unviersity in St. Louis, St. Louis, Missouri
-      year: 2022-2025
+      year: 2022-present
       description:
         - At WashU, I worked with Dr. Yajie Yuan creating a scheme for making interactive 3D visualizations of the magnetic field lines around neutron stars.
         - I presented my work at the 2023 and 2024 Conferences for Undergraduate Women in Physics and at the 2023 WashU Physics Research Symposium.
