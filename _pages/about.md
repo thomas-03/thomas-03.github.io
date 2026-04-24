@@ -17,7 +17,7 @@ latest_posts: true # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hello! I'm Tegan Thomas, a first year Astronomy graduate student at University of Virginia. I spent my undergraduate years at Washington University in St. Louis, where I earned a B.S. in Computer Science with a second major in Astrophysics. I also was part of the Beyond Boundaries program. 
+Hello! I'm Tegan Thomas, a first year Astronomy graduate student at University of Virginia working with Dr. Shane Davis. I spent my undergraduate years at Washington University in St. Louis, where I earned a B.S. in Computer Science with a second major in Astrophysics. I also was part of the Beyond Boundaries program. 
 
 I'm particularly passionate about computational astrophysics research, with a current focus on compact objects such as super massive black holes (SMBHs) and neutron stars. Specifically, most of my research has focused upon performing radiative transfer and magneto-hydrodynamical simulations of these objects in order to better understand their behavior and evolution.
 
